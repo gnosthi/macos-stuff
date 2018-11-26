@@ -2,8 +2,8 @@
 //  main.m
 //  MacOS-ScreenLocker
 //
-//  Created by Jordan, Kenneth {BIS} on 12/7/17.
-//  Copyright © 2017 Jordan, Kenneth {BIS}. All rights reserved.
+//  Created by Jordan, Kenneth on 12/7/17.
+//  Copyright © 2017 Jordan, Kenneth. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
